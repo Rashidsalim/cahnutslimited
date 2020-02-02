@@ -1,3 +1,7 @@
 ## HTML5 Page - Cah Nuts Limited
 
-### NOT Final Edit. Please don't mark as I would like to style the page. Kindly give me until tomorrow noon.
+### References
+- HTML Tables (https://html.com/tables/)
+- Semantic Elements (https://guide.freecodecamp.org/html/html5-semantic-elements/)
+- Dummy Text (https://www.lipsum.com/)
+- HTML Form (https://www.w3schools.com/html/html_forms.asp)
