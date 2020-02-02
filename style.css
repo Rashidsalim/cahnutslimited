@@ -1,5 +1,4 @@
-
-body{
+ body{
     background-image: url(images/background-nut.jpg);
     background-repeat: no-repeat;
     font-family: 'Karla', sans-serif;
@@ -8,11 +7,10 @@ body{
     background-size: cover;
     box-shadow:inset 0 0 0 2000px rgb(66, 42, 56, 0.3);
 }
-
+/* Style Links */
 a {
     color: skyblue
 }
-
 h1 {
     border-style: solid;
     border-color: white;
